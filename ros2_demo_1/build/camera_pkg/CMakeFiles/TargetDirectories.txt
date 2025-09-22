@@ -1,0 +1,11 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/camera_pkg_uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/virtual_camera.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/yolo_recognizer.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/test.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/edit_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/rebuild_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/list_install_components.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/install.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/install/local.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg/CMakeFiles/install/strip.dir

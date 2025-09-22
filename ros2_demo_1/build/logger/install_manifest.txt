@@ -1,0 +1,16 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/logger/logger_node
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/package_run_dependencies/logger
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/parent_prefix_path/logger
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/ament_prefix_path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/ament_prefix_path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.bash
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.zsh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/packages/logger
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/cmake/loggerConfig.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/cmake/loggerConfig-version.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.xml

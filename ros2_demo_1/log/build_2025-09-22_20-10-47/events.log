@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000424] (-) JobUnselected: {'identifier': 'camera_pkg'}
+[0.000442] (-) JobUnselected: {'identifier': 'logger'}
+[0.000451] (-) EventReactorShutdown: {}

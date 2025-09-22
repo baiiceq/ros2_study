@@ -1,0 +1,1 @@
+Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wzy/Desktop/code/ros2/ros2_demo_1/src/camera_pkg -DCMAKE_INSTALL_PREFIX=/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg

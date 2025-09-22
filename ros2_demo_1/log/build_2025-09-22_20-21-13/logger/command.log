@@ -1,0 +1,2 @@
+Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wzy/Desktop/code/ros2/ros2_demo_1/src/logger -DCMAKE_INSTALL_PREFIX=/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger
+Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wzy/Desktop/code/ros2/ros2_demo_1/src/logger -DCMAKE_INSTALL_PREFIX=/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger

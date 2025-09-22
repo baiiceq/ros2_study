@@ -1,0 +1,24 @@
+[35m[1mConsolidate compiler generated dependencies of target yolo_recognizer[0m
+[35m[1mConsolidate compiler generated dependencies of target virtual_camera[0m
+[ 50%] Built target yolo_recognizer
+[100%] Built target virtual_camera
+-- Install configuration: ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/virtual_camera
+-- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/virtual_camera" to ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/yolo_recognizer
+-- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/yolo_recognizer" to ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/package_run_dependencies/camera_pkg
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/parent_prefix_path/camera_pkg
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/ament_prefix_path.sh
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/ament_prefix_path.dsv
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/path.sh
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/path.dsv
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.bash
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.sh
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.zsh
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.dsv
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.dsv
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/packages/camera_pkg
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/cmake/camera_pkgConfig.cmake
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/cmake/camera_pkgConfig-version.cmake
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.xml

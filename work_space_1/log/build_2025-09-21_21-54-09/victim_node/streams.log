@@ -1,0 +1,42 @@
+[0.011s] Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/victim_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/victim_node -- -j2 -l2
+[0.059s] [35m[1mConsolidate compiler generated dependencies of target victim_node[0m
+[0.075s] [ 50%] [32mBuilding CXX object CMakeFiles/victim_node.dir/src/victim_node.cpp.o[0m
+[1.653s] In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:24[m[K,
+[1.653s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+[1.653s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+[1.654s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+[1.654s]                  from [01m[K/home/wzy/Desktop/code/ros2/work_space_1/src/victim_node/src/victim_node.cpp:1[m[K:
+[1.654s] [01m[K/home/wzy/Desktop/code/ros2/work_space_1/src/victim_node/src/victim_node.cpp:[m[K In constructor ‘[01m[KVictimNode::VictimNode(size_t, size_t, int)[m[K’:
+[1.654s] [01m[K/home/wzy/Desktop/code/ros2/work_space_1/src/victim_node/src/victim_node.cpp:24:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wformat-extra-args-Wformat-extra-args]8;;[m[K]
+[1.654s]    24 |                 [01;35m[K"VictimNode create : buffer=%ld MB, stride=%ld, period=%ldms"[m[K,
+[1.654s]       |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[2.919s] [100%] [32m[1mLinking CXX executable victim_node[0m
+[3.041s] [100%] Built target victim_node
+[3.052s] Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/victim_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/victim_node -- -j2 -l2
+[3.059s] Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/victim_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/victim_node
+[3.066s] -- Install configuration: ""
+[3.066s] -- Installing: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/lib/victim_node/victim_node
+[3.068s] -- Set runtime path of "/home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/lib/victim_node/victim_node" to ""
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/ament_index/resource_index/package_run_dependencies/victim_node
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/ament_index/resource_index/parent_prefix_path/victim_node
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/environment/ament_prefix_path.sh
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/environment/ament_prefix_path.dsv
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/environment/path.sh
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/environment/path.dsv
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/local_setup.bash
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/local_setup.sh
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/local_setup.zsh
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/local_setup.dsv
+[3.068s] -- Installing: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/package.dsv
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/ament_index/resource_index/packages/victim_node
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/cmake/victim_nodeConfig.cmake
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/cmake/victim_nodeConfig-version.cmake
+[3.068s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/victim_node/share/victim_node/package.xml
+[3.070s] Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/victim_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/victim_node

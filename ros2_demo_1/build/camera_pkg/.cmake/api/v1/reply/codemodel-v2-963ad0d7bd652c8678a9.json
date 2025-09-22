@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-670c5862488cf981f542.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "camera_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-camera_pkg_uninstall-ce9d7051f7ff5e7152e5.json",
+					"name" : "camera_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9004b210b54e1cb9053e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_camera-31d5dad68e946baf6927.json",
+					"name" : "virtual_camera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolo_recognizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolo_recognizer-a2acbe428d9f21b06ae4.json",
+					"name" : "yolo_recognizer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg",
+		"source" : "/home/wzy/Desktop/code/ros2/ros2_demo_1/src/camera_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
