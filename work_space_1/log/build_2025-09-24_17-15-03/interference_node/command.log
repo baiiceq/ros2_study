@@ -1,0 +1,4 @@
+Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node -- -j2 -l2
+Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node -- -j2 -l2
+Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node
+Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node

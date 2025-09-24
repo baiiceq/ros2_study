@@ -1,0 +1,4 @@
+[01m[K/home/wzy/Desktop/code/ros2/work_space_1/src/interference_node/src/interference_node.cpp:[m[K In member function ‘[01m[Kvoid InterferenceNode::do_memory_intensive_work()[m[K’:
+[01m[K/home/wzy/Desktop/code/ros2/work_space_1/src/interference_node/src/interference_node.cpp:27:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kstep[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-variable-Wunused-variable]8;;[m[K]
+   27 |     size_t [01;35m[Kstep[m[K = 256;
+      |            [01;35m[K^~~~[m[K
