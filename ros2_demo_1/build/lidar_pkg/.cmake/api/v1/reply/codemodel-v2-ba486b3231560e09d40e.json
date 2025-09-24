@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e37d7e8780c0753af77f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lidar_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lidar_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lidar_pkg_uninstall-59e171b2b30db56fe7bc.json",
+					"name" : "lidar_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointcloud_processor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointcloud_processor-1126c2901fb0c4c22a7d.json",
+					"name" : "pointcloud_processor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-398984eb690aa12e91b6.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtual_lidar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtual_lidar-b4a5e80ef2936bbd45ad.json",
+					"name" : "virtual_lidar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg",
+		"source" : "/home/wzy/Desktop/code/ros2/ros2_demo_1/src/lidar_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

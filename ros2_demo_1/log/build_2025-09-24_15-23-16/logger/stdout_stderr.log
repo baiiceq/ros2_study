@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target logger_node[0m
+[100%] Built target logger_node
+-- Install configuration: ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/logger/logger_node
+-- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/logger/logger_node" to ""
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/package_run_dependencies/logger
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/parent_prefix_path/logger
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/ament_prefix_path.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/path.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/environment/path.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.bash
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.zsh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/local_setup.dsv
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/ament_index/resource_index/packages/logger
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/cmake/loggerConfig.cmake
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/cmake/loggerConfig-version.cmake
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.xml

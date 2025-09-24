@@ -1,0 +1,16 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/launch/demo_lanuch.py
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/package_run_dependencies/demo_startup
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/parent_prefix_path/demo_startup
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/ament_prefix_path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/ament_prefix_path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.bash
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.zsh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/package.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/packages/demo_startup
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/cmake/demo_startupConfig.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/cmake/demo_startupConfig-version.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/package.xml

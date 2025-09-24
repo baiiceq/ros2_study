@@ -1,0 +1,25 @@
+[0.015s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg -- -j2 -l2
+[0.073s] [35m[1mConsolidate compiler generated dependencies of target can_simulator[0m
+[0.087s] [ 50%] Built target system_monitor
+[0.102s] [100%] Built target can_simulator
+[0.121s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg -- -j2 -l2
+[0.125s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg
+[0.133s] -- Install configuration: ""
+[0.136s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/lib/can_pkg/can_simulator
+[0.137s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/lib/can_pkg/system_monitor
+[0.137s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/ament_index/resource_index/package_run_dependencies/can_pkg
+[0.138s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/ament_index/resource_index/parent_prefix_path/can_pkg
+[0.138s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/environment/ament_prefix_path.sh
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/environment/ament_prefix_path.dsv
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/environment/path.sh
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/environment/path.dsv
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/local_setup.bash
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/local_setup.sh
+[0.139s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/local_setup.zsh
+[0.140s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/local_setup.dsv
+[0.140s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/package.dsv
+[0.140s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/ament_index/resource_index/packages/can_pkg
+[0.140s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/cmake/can_pkgConfig.cmake
+[0.140s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/cmake/can_pkgConfig-version.cmake
+[0.140s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/can_pkg/share/can_pkg/package.xml
+[0.162s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/can_pkg

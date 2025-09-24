@@ -1,0 +1,9 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/demo_startup_uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/test.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/edit_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/rebuild_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/list_install_components.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/install.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/install/local.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup/CMakeFiles/install/strip.dir

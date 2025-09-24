@@ -8,7 +8,8 @@ public:
         sub_ = this->create_subscription<std_msgs::msg::String>(
             "system/log", 10,
             std::bind(&SystemLogger::callback, this, std::placeholders::_1));
-
+	
+	// 打开日志文件
         log_file_.open("logs/system_log.txt", std::ios::app);
         if (!log_file_.is_open()) {
             RCLCPP_ERROR(this->get_logger(), "Failed to open log file!");
@@ -23,8 +24,10 @@ public:
 
 private:
     void callback(const std_msgs::msg::String::SharedPtr msg) {
+    	// 终端打印日志
         RCLCPP_INFO(this->get_logger(), "LOG: %s", msg->data.c_str());
-
+	
+	// 文件输出日志
         if (log_file_.is_open()) {
             log_file_ << msg->data << std::endl;
         }

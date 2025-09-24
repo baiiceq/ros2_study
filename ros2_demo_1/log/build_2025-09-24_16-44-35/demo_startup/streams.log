@@ -1,0 +1,46 @@
+[0.014s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wzy/Desktop/code/ros2/ros2_demo_1/src/demo_startup -DCMAKE_INSTALL_PREFIX=/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup
+[0.163s] -- The C compiler identification is GNU 11.4.0
+[0.229s] -- The CXX compiler identification is GNU 11.4.0
+[0.246s] -- Detecting C compiler ABI info
+[0.336s] -- Detecting C compiler ABI info - done
+[0.343s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.344s] -- Detecting C compile features
+[0.345s] -- Detecting C compile features - done
+[0.351s] -- Detecting CXX compiler ABI info
+[0.435s] -- Detecting CXX compiler ABI info - done
+[0.438s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.438s] -- Detecting CXX compile features
+[0.438s] -- Detecting CXX compile features - done
+[0.445s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.556s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.640s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.700s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.700s] -- Added test 'lint_cmake' to check CMake code style
+[0.701s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.703s] -- Added test 'xmllint' to check XML markup files
+[0.706s] -- Configuring done
+[0.709s] -- Generating done
+[0.712s] -- Build files have been written to: /home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup
+[0.716s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wzy/Desktop/code/ros2/ros2_demo_1/src/demo_startup -DCMAKE_INSTALL_PREFIX=/home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup
+[0.718s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup -- -j2 -l2
+[0.755s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup -- -j2 -l2
+[0.757s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup
+[0.764s] -- Install configuration: ""
+[0.764s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/launch
+[0.765s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/launch/demo_lanuch.py
+[0.765s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/package_run_dependencies/demo_startup
+[0.766s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/parent_prefix_path/demo_startup
+[0.766s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/ament_prefix_path.sh
+[0.766s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/ament_prefix_path.dsv
+[0.767s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/path.sh
+[0.767s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/environment/path.dsv
+[0.767s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.bash
+[0.767s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.sh
+[0.767s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.zsh
+[0.768s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/local_setup.dsv
+[0.768s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/package.dsv
+[0.769s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/ament_index/resource_index/packages/demo_startup
+[0.769s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/cmake/demo_startupConfig.cmake
+[0.769s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/cmake/demo_startupConfig-version.cmake
+[0.769s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/demo_startup/share/demo_startup/package.xml
+[0.770s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/demo_startup

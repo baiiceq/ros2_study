@@ -1,0 +1,6 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/yolo_recognizer.dir/src/yolo_recognizer.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/virtual_camera.dir/src/virtual_camera.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable virtual_camera[0m
+[ 75%] Built target virtual_camera
+[100%] [32m[1mLinking CXX executable yolo_recognizer[0m
+[100%] Built target yolo_recognizer

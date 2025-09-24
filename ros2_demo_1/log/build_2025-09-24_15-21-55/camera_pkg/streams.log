@@ -1,0 +1,7 @@
+[0.024s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg -- -j2 -l2
+[0.260s] [ 25%] [32mBuilding CXX object CMakeFiles/yolo_recognizer.dir/src/yolo_recognizer.cpp.o[0m
+[0.268s] [ 50%] [32mBuilding CXX object CMakeFiles/virtual_camera.dir/src/virtual_camera.cpp.o[0m
+[5.661s] [ 75%] [32m[1mLinking CXX executable virtual_camera[0m
+[5.911s] [ 75%] Built target virtual_camera
+[8.239s] [100%] [32m[1mLinking CXX executable yolo_recognizer[0m
+[8.473s] [100%] Built target yolo_recognizer

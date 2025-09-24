@@ -1,0 +1,11 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/control_pkg_uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/control_decision.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/control_signal_generator.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/test.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/edit_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/rebuild_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/list_install_components.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/install.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/install/local.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg/CMakeFiles/install/strip.dir

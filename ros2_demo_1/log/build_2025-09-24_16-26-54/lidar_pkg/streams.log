@@ -1,0 +1,30 @@
+[0.008s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg -- -j2 -l2
+[0.062s] [35m[1mConsolidate compiler generated dependencies of target virtual_lidar[0m
+[0.068s] [35m[1mConsolidate compiler generated dependencies of target pointcloud_processor[0m
+[0.094s] [ 25%] [32mBuilding CXX object CMakeFiles/virtual_lidar.dir/src/virtual_lidar.cpp.o[0m
+[0.107s] [ 75%] Built target pointcloud_processor
+[3.285s] [100%] [32m[1mLinking CXX executable virtual_lidar[0m
+[3.419s] [100%] Built target virtual_lidar
+[3.431s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg -- -j2 -l2
+[3.433s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg
+[3.440s] -- Install configuration: ""
+[3.442s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/pointcloud_processor
+[3.444s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/virtual_lidar
+[3.445s] -- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/virtual_lidar" to ""
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/package_run_dependencies/lidar_pkg
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/parent_prefix_path/lidar_pkg
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/ament_prefix_path.sh
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/ament_prefix_path.dsv
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/path.sh
+[3.445s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/path.dsv
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.bash
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.sh
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.zsh
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.dsv
+[3.446s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.dsv
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/packages/lidar_pkg
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/lidar_pkgConfig.cmake
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/lidar_pkgConfig-version.cmake
+[3.446s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.xml
+[3.449s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg

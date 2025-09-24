@@ -22,6 +22,7 @@ private:
 
         if (msg->data.empty()) return;
 
+        // 通过信息简单判断图片颜色
         uint8_t value = msg->data[0]; 
         std::string color;
 
@@ -33,8 +34,9 @@ private:
             color = "black";
         }
 
+        // 发送日志信息
         std::stringstream s;
-        s << "[YoloRecognizer] yolo recognizer [" << color << "] "
+        s << "[YoloRecognizer] yolo 识别颜色 [" << color << "] "
         << ", image value: " << static_cast<int>(value);
 
         result.data = s.str();

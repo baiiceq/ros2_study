@@ -16,7 +16,7 @@ public:
         log_pub_->publish(msg);
 
         using namespace std::chrono_literals;
-        timer_ = this->create_wall_timer(100ms, std::bind(&VirtualCamera::publish_image, this));
+        timer_ = this->create_wall_timer(1000ms, std::bind(&VirtualCamera::publish_image, this));
     }
 
 private:
@@ -32,10 +32,11 @@ private:
         msg.data.resize(480 * 640, static_cast<uint8_t>(std::rand() % 256));
         image_pub_->publish(msg);
 
+        // 发送日志信息
         std_msgs::msg::String log_msg;
         std::stringstream s;
 
-        s << "[VirtualCamera] virtual camera publish a image : "
+        s << "[VirtualCamera] virtual camera 发送一张纯色图片 : "
         << "(height: " << msg.height
         << ", width: " << msg.width
         << ", encoding: " << msg.encoding << ")";

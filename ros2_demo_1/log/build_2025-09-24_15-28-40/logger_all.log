@@ -1,0 +1,268 @@
+[0.267s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[0.268s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=2, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7c8b0b8587c0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7c8b0b9621a0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7c8b0b9621a0>>)
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.540s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.540s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/wzy/Desktop/code/ros2/ros2_demo_1'
+[0.540s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.540s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.540s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.540s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.540s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.541s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.541s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.541s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.541s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.551s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.551s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.552s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extensions ['ignore', 'ignore_ament_install']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extension 'ignore'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extension 'ignore_ament_install'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extensions ['colcon_pkg']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extension 'colcon_pkg'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extensions ['colcon_meta']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extension 'colcon_meta'
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extensions ['ros']
+[0.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_pkg) by extension 'ros'
+[0.556s] DEBUG:colcon.colcon_core.package_identification:Package 'src/camera_pkg' with type 'ros.ament_cmake' and name 'camera_pkg'
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extensions ['ignore', 'ignore_ament_install']
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extension 'ignore'
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extension 'ignore_ament_install'
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extensions ['colcon_pkg']
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extension 'colcon_pkg'
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extensions ['colcon_meta']
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extension 'colcon_meta'
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extensions ['ros']
+[0.556s] Level 1:colcon.colcon_core.package_identification:_identify(src/lidar_pkg) by extension 'ros'
+[0.557s] DEBUG:colcon.colcon_core.package_identification:Package 'src/lidar_pkg' with type 'ros.ament_cmake' and name 'lidar_pkg'
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extensions ['ignore', 'ignore_ament_install']
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extension 'ignore'
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extension 'ignore_ament_install'
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extensions ['colcon_pkg']
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extension 'colcon_pkg'
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extensions ['colcon_meta']
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extension 'colcon_meta'
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extensions ['ros']
+[0.557s] Level 1:colcon.colcon_core.package_identification:_identify(src/logger) by extension 'ros'
+[0.558s] DEBUG:colcon.colcon_core.package_identification:Package 'src/logger' with type 'ros.ament_cmake' and name 'logger'
+[0.558s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.558s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.558s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.558s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.558s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.584s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[0.584s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[0.589s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 271 installed packages in /opt/ros/humble
+[0.597s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[0.687s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_target' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_clean_cache' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_clean_first' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'cmake_force_configure' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'ament_cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'catkin_cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'camera_pkg' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.688s] DEBUG:colcon.colcon_core.verb:Building package 'camera_pkg' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg', 'merge_install': False, 'path': '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/camera_pkg', 'symlink_install': False, 'test_result_base': None}
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_target' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_clean_cache' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_clean_first' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'cmake_force_configure' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'ament_cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'catkin_cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'lidar_pkg' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.688s] DEBUG:colcon.colcon_core.verb:Building package 'lidar_pkg' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg', 'merge_install': False, 'path': '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/lidar_pkg', 'symlink_install': False, 'test_result_base': None}
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_args' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_target' from command line to 'None'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_clean_cache' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_clean_first' from command line to 'False'
+[0.688s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'cmake_force_configure' from command line to 'False'
+[0.689s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'ament_cmake_args' from command line to 'None'
+[0.689s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'catkin_cmake_args' from command line to 'None'
+[0.689s] Level 5:colcon.colcon_core.verb:set package 'logger' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.689s] DEBUG:colcon.colcon_core.verb:Building package 'logger' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger', 'merge_install': False, 'path': '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/logger', 'symlink_install': False, 'test_result_base': None}
+[0.689s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.689s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.690s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/camera_pkg' with build type 'ament_cmake'
+[0.690s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/camera_pkg'
+[0.695s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.695s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.695s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.698s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/lidar_pkg' with build type 'ament_cmake'
+[0.698s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/lidar_pkg'
+[0.698s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.698s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.707s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg -- -j2 -l2
+[0.721s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg -- -j2 -l2
+[0.821s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg -- -j2 -l2
+[0.832s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg
+[0.847s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(camera_pkg)
+[0.848s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg
+[0.855s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg' for CMake module files
+[0.855s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg' for CMake config files
+[0.855s] Level 1:colcon.colcon_core.shell:create_environment_hook('camera_pkg', 'cmake_prefix_path')
+[0.855s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.ps1'
+[0.856s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.dsv'
+[0.857s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.sh'
+[0.859s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib'
+[0.859s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/bin'
+[0.859s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/pkgconfig/camera_pkg.pc'
+[0.859s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/python3.10/site-packages'
+[0.859s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/bin'
+[0.860s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.ps1'
+[0.861s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.dsv'
+[0.862s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.sh'
+[0.863s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.bash'
+[0.864s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.zsh'
+[0.865s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/colcon-core/packages/camera_pkg)
+[0.866s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(camera_pkg)
+[0.866s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg' for CMake module files
+[0.867s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg' for CMake config files
+[0.867s] Level 1:colcon.colcon_core.shell:create_environment_hook('camera_pkg', 'cmake_prefix_path')
+[0.867s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.ps1'
+[0.867s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.dsv'
+[0.868s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/hook/cmake_prefix_path.sh'
+[0.869s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib'
+[0.869s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/bin'
+[0.869s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/pkgconfig/camera_pkg.pc'
+[0.869s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/python3.10/site-packages'
+[0.869s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/bin'
+[0.870s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.ps1'
+[0.870s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.dsv'
+[0.871s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.sh'
+[0.872s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.bash'
+[0.872s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.zsh'
+[0.873s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/colcon-core/packages/camera_pkg)
+[0.875s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/logger' with build type 'ament_cmake'
+[0.875s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/wzy/Desktop/code/ros2/ros2_demo_1/src/logger'
+[0.875s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.875s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.885s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger -- -j2 -l2
+[0.970s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger -- -j2 -l2
+[0.971s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger
+[0.981s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(logger)
+[0.981s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger' for CMake module files
+[0.982s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger
+[0.982s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger' for CMake config files
+[0.983s] Level 1:colcon.colcon_core.shell:create_environment_hook('logger', 'cmake_prefix_path')
+[0.983s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.ps1'
+[0.984s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.dsv'
+[0.984s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.sh'
+[0.985s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib'
+[0.985s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/bin'
+[0.985s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/pkgconfig/logger.pc'
+[0.986s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/python3.10/site-packages'
+[0.986s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/bin'
+[0.987s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.ps1'
+[0.987s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.dsv'
+[0.988s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.sh'
+[0.989s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.bash'
+[0.989s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.zsh'
+[0.990s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/colcon-core/packages/logger)
+[0.991s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(logger)
+[0.991s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger' for CMake module files
+[0.991s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger' for CMake config files
+[0.992s] Level 1:colcon.colcon_core.shell:create_environment_hook('logger', 'cmake_prefix_path')
+[0.992s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.ps1'
+[0.993s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.dsv'
+[0.993s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/hook/cmake_prefix_path.sh'
+[0.994s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib'
+[0.994s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/bin'
+[0.994s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/pkgconfig/logger.pc'
+[0.994s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/lib/python3.10/site-packages'
+[0.994s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/bin'
+[0.994s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.ps1'
+[0.995s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.dsv'
+[0.996s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.sh'
+[0.996s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.bash'
+[0.996s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/logger/package.zsh'
+[0.997s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/logger/share/colcon-core/packages/logger)
+[8.736s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg -- -j2 -l2
+[8.739s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg
+[8.763s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(lidar_pkg)
+[8.763s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg' for CMake module files
+[8.763s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg
+[8.764s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg' for CMake config files
+[8.764s] Level 1:colcon.colcon_core.shell:create_environment_hook('lidar_pkg', 'cmake_prefix_path')
+[8.765s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.ps1'
+[8.765s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.dsv'
+[8.766s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.sh'
+[8.766s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib'
+[8.766s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/bin'
+[8.766s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/pkgconfig/lidar_pkg.pc'
+[8.766s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/python3.10/site-packages'
+[8.766s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/bin'
+[8.767s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.ps1'
+[8.767s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.dsv'
+[8.767s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.sh'
+[8.768s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.bash'
+[8.768s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.zsh'
+[8.769s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/colcon-core/packages/lidar_pkg)
+[8.770s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(lidar_pkg)
+[8.770s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg' for CMake module files
+[8.770s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg' for CMake config files
+[8.771s] Level 1:colcon.colcon_core.shell:create_environment_hook('lidar_pkg', 'cmake_prefix_path')
+[8.771s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.ps1'
+[8.771s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.dsv'
+[8.772s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/hook/cmake_prefix_path.sh'
+[8.772s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib'
+[8.772s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/bin'
+[8.772s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/pkgconfig/lidar_pkg.pc'
+[8.772s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/python3.10/site-packages'
+[8.773s] Level 1:colcon.colcon_core.environment:checking '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/bin'
+[8.773s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.ps1'
+[8.773s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.dsv'
+[8.774s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.sh'
+[8.774s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.bash'
+[8.775s] INFO:colcon.colcon_core.shell:Creating package script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.zsh'
+[8.775s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/colcon-core/packages/lidar_pkg)
+[8.775s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[8.776s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[8.776s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[8.776s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[8.789s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[8.789s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[8.789s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[8.882s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[8.883s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/local_setup.ps1'
+[8.884s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/_local_setup_util_ps1.py'
+[8.886s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/setup.ps1'
+[8.887s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/local_setup.sh'
+[8.888s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/_local_setup_util_sh.py'
+[8.888s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/setup.sh'
+[8.890s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/local_setup.bash'
+[8.891s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/setup.bash'
+[8.892s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/local_setup.zsh'
+[8.893s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/wzy/Desktop/code/ros2/ros2_demo_1/install/setup.zsh'

@@ -1,0 +1,29 @@
+[0.006s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg -- -j2 -l2
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target control_signal_generator[0m
+[0.065s] [35m[1mConsolidate compiler generated dependencies of target control_decision[0m
+[0.086s] [ 25%] [32mBuilding CXX object CMakeFiles/control_signal_generator.dir/src/control_signal_generator.cpp.o[0m
+[0.093s] [ 75%] Built target control_decision
+[3.215s] [100%] [32m[1mLinking CXX executable control_signal_generator[0m
+[3.341s] [100%] Built target control_signal_generator
+[3.352s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg -- -j2 -l2
+[3.355s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg
+[3.361s] -- Install configuration: ""
+[3.362s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/lib/control_pkg/control_decision
+[3.364s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/lib/control_pkg/control_signal_generator
+[3.366s] -- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/lib/control_pkg/control_signal_generator" to ""
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/package_run_dependencies/control_pkg
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/parent_prefix_path/control_pkg
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/ament_prefix_path.sh
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/ament_prefix_path.dsv
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/path.sh
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/path.dsv
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.bash
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.sh
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.zsh
+[3.366s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.dsv
+[3.367s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/package.dsv
+[3.367s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/packages/control_pkg
+[3.368s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/cmake/control_pkgConfig.cmake
+[3.368s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/cmake/control_pkgConfig-version.cmake
+[3.368s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/package.xml
+[3.371s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/control_pkg

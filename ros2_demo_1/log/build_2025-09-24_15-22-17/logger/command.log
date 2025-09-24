@@ -1,0 +1,1 @@
+Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger -- -j2 -l2

@@ -1,0 +1,17 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/lib/control_pkg/control_decision
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/lib/control_pkg/control_signal_generator
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/package_run_dependencies/control_pkg
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/parent_prefix_path/control_pkg
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/ament_prefix_path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/ament_prefix_path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/path.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/environment/path.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.bash
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.sh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.zsh
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/local_setup.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/package.dsv
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/ament_index/resource_index/packages/control_pkg
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/cmake/control_pkgConfig.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/cmake/control_pkgConfig-version.cmake
+/home/wzy/Desktop/code/ros2/ros2_demo_1/install/control_pkg/share/control_pkg/package.xml

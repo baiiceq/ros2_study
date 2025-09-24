@@ -1,0 +1,5 @@
+[0.006s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/logger -- -j2 -l2
+[0.058s] [35m[1mConsolidate compiler generated dependencies of target logger_node[0m
+[0.076s] [ 50%] [32mBuilding CXX object CMakeFiles/logger_node.dir/src/logger_node.cpp.o[0m
+[5.369s] [100%] [32m[1mLinking CXX executable logger_node[0m
+[5.587s] [100%] Built target logger_node

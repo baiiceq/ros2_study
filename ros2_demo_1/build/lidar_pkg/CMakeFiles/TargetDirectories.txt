@@ -1,0 +1,11 @@
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/lidar_pkg_uninstall.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/pointcloud_processor.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/virtual_lidar.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/test.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/edit_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/rebuild_cache.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/list_install_components.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/install.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/install/local.dir
+/home/wzy/Desktop/code/ros2/ros2_demo_1/build/lidar_pkg/CMakeFiles/install/strip.dir

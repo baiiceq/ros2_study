@@ -1,0 +1,27 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/virtual_lidar.dir/src/virtual_lidar.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pointcloud_processor.dir/src/pointcloud_processor.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable virtual_lidar[0m
+[ 75%] Built target virtual_lidar
+[100%] [32m[1mLinking CXX executable pointcloud_processor[0m
+[100%] Built target pointcloud_processor
+-- Install configuration: ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/pointcloud_processor
+-- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/pointcloud_processor" to ""
+-- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/virtual_lidar
+-- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/lib/lidar_pkg/virtual_lidar" to ""
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/package_run_dependencies/lidar_pkg
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/parent_prefix_path/lidar_pkg
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/ament_prefix_path.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/path.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/environment/path.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.bash
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.sh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.zsh
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/local_setup.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.dsv
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/ament_index/resource_index/packages/lidar_pkg
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/lidar_pkgConfig.cmake
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/cmake/lidar_pkgConfig-version.cmake
+-- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/lidar_pkg/share/lidar_pkg/package.xml

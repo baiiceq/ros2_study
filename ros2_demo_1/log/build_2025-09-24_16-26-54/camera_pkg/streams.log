@@ -1,0 +1,29 @@
+[0.016s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg -- -j2 -l2
+[0.162s] [35m[1mConsolidate compiler generated dependencies of target yolo_recognizer[0m
+[0.162s] [35m[1mConsolidate compiler generated dependencies of target virtual_camera[0m
+[0.187s] [ 50%] Built target yolo_recognizer
+[0.188s] [ 75%] [32mBuilding CXX object CMakeFiles/virtual_camera.dir/src/virtual_camera.cpp.o[0m
+[5.438s] [100%] [32m[1mLinking CXX executable virtual_camera[0m
+[5.692s] [100%] Built target virtual_camera
+[5.703s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg -- -j2 -l2
+[5.716s] Invoking command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg
+[5.720s] -- Install configuration: ""
+[5.721s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/virtual_camera
+[5.722s] -- Set runtime path of "/home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/virtual_camera" to ""
+[5.722s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/lib/camera_pkg/yolo_recognizer
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/package_run_dependencies/camera_pkg
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/parent_prefix_path/camera_pkg
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/ament_prefix_path.sh
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/ament_prefix_path.dsv
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/path.sh
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/environment/path.dsv
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.bash
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.sh
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.zsh
+[5.723s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/local_setup.dsv
+[5.723s] -- Installing: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.dsv
+[5.724s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/ament_index/resource_index/packages/camera_pkg
+[5.724s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/cmake/camera_pkgConfig.cmake
+[5.724s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/cmake/camera_pkgConfig-version.cmake
+[5.724s] -- Up-to-date: /home/wzy/Desktop/code/ros2/ros2_demo_1/install/camera_pkg/share/camera_pkg/package.xml
+[5.725s] Invoked command in '/home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/ros2_demo_1/build/camera_pkg
