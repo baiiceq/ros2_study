@@ -1,0 +1,26 @@
+[0.011s] Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node -- -j2 -l2
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target interference_node[0m
+[0.070s] [ 50%] [32mBuilding CXX object CMakeFiles/interference_node.dir/src/interference_node.cpp.o[0m
+[2.111s] [100%] [32m[1mLinking CXX executable interference_node[0m
+[2.202s] [100%] Built target interference_node
+[2.213s] Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node -- -j2 -l2
+[2.213s] Invoking command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node
+[2.219s] -- Install configuration: ""
+[2.220s] -- Installing: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/lib/interference_node/interference_node
+[2.220s] -- Set runtime path of "/home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/lib/interference_node/interference_node" to ""
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/ament_index/resource_index/package_run_dependencies/interference_node
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/ament_index/resource_index/parent_prefix_path/interference_node
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/environment/ament_prefix_path.sh
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/environment/ament_prefix_path.dsv
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/environment/path.sh
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/environment/path.dsv
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/local_setup.bash
+[2.221s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/local_setup.sh
+[2.222s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/local_setup.zsh
+[2.222s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/local_setup.dsv
+[2.222s] -- Installing: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/package.dsv
+[2.222s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/ament_index/resource_index/packages/interference_node
+[2.222s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/cmake/interference_nodeConfig.cmake
+[2.223s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/cmake/interference_nodeConfig-version.cmake
+[2.223s] -- Up-to-date: /home/wzy/Desktop/code/ros2/work_space_1/install/interference_node/share/interference_node/package.xml
+[2.225s] Invoked command in '/home/wzy/Desktop/code/ros2/work_space_1/build/interference_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/wzy/Desktop/code/ros2/work_space_1/build/interference_node
